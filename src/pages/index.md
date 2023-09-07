@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MainLayout.astro
 title: Zabihulla Shaik
-description: Zabih's homepage
+description: Zabihulla's homepage
 ---
 
 # Zabihulla Shaik
@@ -24,7 +24,7 @@ Highly skilled and motivated Web Developer with over 2 years of experience in bu
 ### Skills
 
 - **Programming Languages**: JavaScript (ES6+), TypeScript
-- **Front-end**: ReactJS
+- **Front-end**: ReactJS, HTML, CSS
 - **Back-end**: Node.js, Express
 - **Database**: MongoDB
 - **Tools**: Git, Webpack
@@ -34,24 +34,27 @@ Highly skilled and motivated Web Developer with over 2 years of experience in bu
 
 ### Experience
 
-#### AI / ML Engineer at Omdena UAE Chapter
+#### Task Lead - AI / ML Engineer at Omdena UAE Chapter
 
 _September 2023 - Present_
 
-- Abu Dhabi Open Data Project
+- Leading a Team of 30+ members for the task of creating UX_Interface as part of the Project: Abu Dhabi Open Data Intelligence: Empowering Analytics with Falcon LLM Voice Bot.
+- Contributing to other tasks as well.
 
 #### Web Developer at Sandblaze Digitals Pvt Ltd
 
 _March 2021 - Present_
 
-- Built and maintained scalable web applications
-- Reduced load time by optimizing front-end performance
+- Built and maintained scalable web applications.
+- Reduced load time by optimizing front-end performance.
 
 #### Accounts Manager at Al Warqa Survey Engineering
 
 _Jan 2014 - October 2020_
 
-- Worked as an Accounts Manager
+- Worked as an Accounts Manager.
+- Led a team of 4 members to manage the accounts & finances of the company.
+- Dealt with clients and local sponsors regarding some critical projects.
 
 ---
 
@@ -69,3 +72,9 @@ _Jan 2014 - October 2020_
 - **Tech Stack**: React, NodeJS, Express, MongoDB
 - **Description**: A scalable and secure online shopping platform.
 - **GitHub**: [github.com/zabihshaik/proshop-z](https://github.com/zabihshaik/proshop-z)
+
+#### Astro Blog Website
+
+- **Tech Stack**: Astro, Water.css
+- **Description**: A blog website created using Astro.
+- **GitHub**: [github.com/zabihshaik/astro-blog](https://github.com/zabihshaik/astro-blog)
