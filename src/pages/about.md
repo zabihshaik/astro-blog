@@ -29,14 +29,13 @@ JavaScript is more than just a programming language to me. It's a tool that allo
 - **Quality Over Quantity**: Producing clean, maintainable code that stands the test of time.
 - **Teamwork**: Collaboration amplifies individual strengths and mitigates weaknesses.
 - **Continuous Learning**: Staying updated with the latest industry trends and technologies.
-- **Giving Back**: Contributing to the community through open-source projects and tech talks.
+- **Giving Back**: Contributing to the community through open-source projects.
 
 ---
 
 ## Hobbies and Interests
 
 - 📚 Reading technical blogs
-- 🎧 Listening to podcasts about technology
 - 🏕️ Badminton, Cricket, Swimming
 
 ---
